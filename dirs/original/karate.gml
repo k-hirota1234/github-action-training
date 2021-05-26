@@ -171,11 +171,6 @@ graph
     id 34
     label "34"
   ]
-  node
-  [
-    id 35
-    label "35"
-  ]
   edge
   [
     source 2
